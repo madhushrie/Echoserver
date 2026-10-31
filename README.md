@@ -64,12 +64,12 @@ print(f"Received {data!r}")
 ## OUTPUT:
 ## server.py:
 
-<img width="651" height="237" alt="Screenshot 2026-10-26 205310" src="https://github.com/user-attachments/assets/9e5bf9a2-0819-482c-be71-22ee6de4b214" />
+<img width="726" height="365" alt="image" src="https://github.com/user-attachments/assets/bc80aabc-caf8-460d-a24a-8b29c08e622e" />
+
 
 
 ## client.py:
-<img width="786" height="166" alt="Screenshot 2026-10-26 205327" src="https://github.com/user-attachments/assets/11e914ea-1206-4d32-85ee-49068040f513" />
-
+<img width="615" height="367" alt="image" src="https://github.com/user-attachments/assets/78535697-5ea1-4963-897b-f9648661193b" />
 
 
 ## RESULT:
